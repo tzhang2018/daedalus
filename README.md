@@ -1,1 +1,1 @@
-# daedalus
+# Demo repo
